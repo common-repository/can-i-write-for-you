@@ -1,0 +1,28 @@
+/* Plugin stylesheet */
+
+.ciwfy_widget .notification { padding: 7px; margin-bottom: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+.ciwfy_widget .error { background: #F3C2C2; border: 1px solid #E16868; }
+.ciwfy_widget .warning { background: #FFFF80; border: 1px solid #E1E100; }
+.ciwfy_widget .ok { background: #95FFCA; border: 1px solid #00EA75; }
+
+.ciwfy_widget .submit { margin-top: 5px; font-size: 12px; height: 30px; }
+
+
+/* Here you can add custom styles for you widget. For example, these fit good with the standard Twenty Eleven theme */
+.ciwfy_widget input.field { 
+	width: 180px; 
+	height: 24px; 
+	padding: 3px; 
+	background: #ffffff; 
+	border: 1px solid #dddddd; 
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset; 
+	color: #888888; 
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; 
+}
+.ciwfy_widget textarea {
+	background: #ffffff;
+	border: 1px solid #dddddd; 
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset; 
+	color: #888888; 
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;
+}

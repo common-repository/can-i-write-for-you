@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp_Caniwriteforyou\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 18:25+0100\n"
+"PO-Revision-Date: 2012-06-19 18:25+0100\n"
+"Last-Translator: Luca Fresc <freshdevelop@gmail.com>\n"
+"Language-Team: Luca Fresc <freshdevelop@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\test\\wp_addauthor\\wp-content\\plugins\\caniwriteforyou\n"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:86
+#, php-format
+msgid "There is %d new person who want to write for you:"
+msgstr "C'è %d nuova persona che desidera scrivere per questo blog:"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:97
+msgid "Allow him"
+msgstr "Accetta richiesta"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:100
+msgid "or"
+msgstr "oppure"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:102
+msgid "Display requester details"
+msgstr "Mostra dettagli richiesta"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:120
+#, php-format
+msgid "%d new author added:"
+msgstr "%d nuovo autore aggiunto:"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:123
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:144
+msgid "and"
+msgstr "e"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:141
+#, php-format
+msgid "%d new author deleted:"
+msgstr "%d nuovo autore eliminato:"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:251
+#, php-format
+msgid "%s: Your request has been accepted"
+msgstr "%s: La tua richiesta è stata inviata con successo. Verrai ricontattato a breve. Grazie :)"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:253
+#, php-format
+msgid "Hi %s!"
+msgstr "Ciao %s!"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:255
+#, php-format
+msgid "Now you can <a href=\"%s\">login</a> to %s."
+msgstr "<a href=\"%s\">Clicca qui</a> per collegarti a %s."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:257
+msgid "Here's your account data:"
+msgstr "Questi sono i tuoi dati di accesso temporanei:"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:259
+#, php-format
+msgid "Username: %s"
+msgstr "Nome: %s"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:261
+#, php-format
+msgid "Password: %s"
+msgstr "Password: %s"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:263
+msgid "You can replace this automatic password with an easier one"
+msgstr "Una volta entrato, è consigliabile sostituire immediatamente la password con un'altra più sicura e facile da ricordare"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:265
+msgid "Have fun!"
+msgstr "Buona scrittura!"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:307
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:308
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:325
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:225
+msgid "Can I write for you?"
+msgstr "Posso scrivere per te?"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWritePlugin.php:326
+msgid "Here you can view and manage users awaiting requests."
+msgstr "Qui puoi vedere e gestire le richieste in arrivo."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:86
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:103
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:213
+msgid "Accept"
+msgstr "Accetta"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:87
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:104
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:214
+msgid "Delete"
+msgstr "Rifiuta"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:165
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:175
+msgid "Name"
+msgstr "Nome"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:166
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:182
+msgid "Email"
+msgstr "Email"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:167
+msgid "Date"
+msgstr "Data"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteTable.php:168
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:191
+msgid "Message"
+msgstr "Messaggio"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:12
+msgid "Allows visitors to request author subscription"
+msgstr "Permette ai visitatori di questo blog di richiedere un account da autore"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:71
+msgid "Username already in use"
+msgstr "Nome utente già utilizzato"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:75
+msgid "Name is not valid. Only letters and spaces allowed."
+msgstr "Il nome utente non è valido. Utilizzare solo lettere e spazi."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:94
+msgid "Email already in use"
+msgstr "Email già utilizzata."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:98
+msgid "Email is not valid. Check it, please."
+msgstr "L'email non è valida. Sei sicuro di averla scritta correttamente?"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:108
+msgid "Message is required"
+msgstr "E' obbligatorio inserire un breve messaggio di presentazione."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:134
+msgid "Your request has been sent. Thank you :)"
+msgstr "La tua richiesta è stata inviata con successo. Verrai ricontattato a breve. Grazie :)"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:148
+msgid "A new user wants to be an author"
+msgstr "Un nuovo utente desidera diventare autore"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:150
+#, php-format
+msgid "Name: %s"
+msgstr "Nome: %s"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:152
+#, php-format
+msgid "Email: <a href=\"%s\">%s</a>"
+msgstr "Email: <a href=\"%s\">%s</a>"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:154
+#, php-format
+msgid "Notes: %s"
+msgstr "Messaggio: %s"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:156
+#, php-format
+msgid "Please <a href=\"%s\">login into blog</a> to confirm or reject this request."
+msgstr "<a href=\"%s\">Entra nel blog</a> e conferma la richiesta."
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:191
+msgid "required"
+msgstr "obbligatorio"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:196
+msgid "Send request"
+msgstr "Invia richiesta"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:230
+msgid "Title"
+msgstr "Titolo"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:242
+msgid "Enable user message"
+msgstr "Attiva il box dei messaggi"
+
+#: C:\xampp\htdocs\test\wp_addauthor\wp-content\plugins\caniwriteforyou/includes/CanIWriteWidget.php:251
+msgid "User message is required"
+msgstr "Il messaggio è obbligatorio"
+
